@@ -75,9 +75,9 @@
   "shortcuts": [
     {
       "name": "New Story",
-      "short_name": "New",
+      "short_name": "New Story",
       "description": "Makes a new story.",
-      "url": "/?source=pwa#/new-story",
+      "url": "/#/new-story",
       "icons": [
         {
           "src": "images/icon-512.png",
