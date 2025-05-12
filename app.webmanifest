@@ -1,7 +1,7 @@
 {
   "id": "/#/",
   "start_url": "/Codegram/#/",
-  "scope": "/",
+  "scope": "/#/",
   "name": "Codegram.",
   "short_name": "Codegram.",
   "description": "Aplikasi web untuk mempublikasikan cerita Anda.",
@@ -77,7 +77,7 @@
       "name": "New Story",
       "short_name": "New Story",
       "description": "Makes a new story.",
-      "url": "/Codegram/#/",
+      "url": "/Codegram/#/new-story",
       "icons": [
         {
           "src": "images/icon-512.png",
