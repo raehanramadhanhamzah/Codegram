@@ -1,6 +1,6 @@
 {
   "id": "/#/",
-  "start_url": "/",
+  "start_url": "/Codegram/#/",
   "scope": "/",
   "name": "Codegram.",
   "short_name": "Codegram.",
@@ -77,7 +77,7 @@
       "name": "New Story",
       "short_name": "New Story",
       "description": "Makes a new story.",
-      "url": "/#/new-story",
+      "url": "/Codegram/#/",
       "icons": [
         {
           "src": "images/icon-512.png",
