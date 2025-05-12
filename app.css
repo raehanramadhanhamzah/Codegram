@@ -571,6 +571,25 @@ figcaption {
 .form-new-story button[type="submit"]:hover {
   background-color: #3f3f3f;
 }
+/* NOT FOUND PAGE */
+.not-found {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  text-align: center;
+}
+
+.not-found h1 {
+  font-size: 6rem;
+  color: #f44336;
+}
+
+.not-found p {
+  font-size: 1.5rem;
+  color: #555;
+}
 
 /* FOOTER */
 #footer {
@@ -632,14 +651,11 @@ figcaption {
     text-decoration: none; 
     font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
   }
+  #navigation-drawer button{
+    color: #000000; 
+  }
 }
 @media screen and (max-width: 800px) {
-  #navigation-drawer a {
-    color: #000000; 
-    text-decoration: none; 
-    font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
-  }
-
   #map-popup{
     width: 50%;
   }
