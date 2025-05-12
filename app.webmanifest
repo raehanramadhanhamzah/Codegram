@@ -1,6 +1,6 @@
 {
   "id": "/#/",
-  "start_url": "/#/",
+  "start_url": "/",
   "scope": "/",
   "name": "Codegram.",
   "short_name": "Codegram.",
@@ -25,13 +25,66 @@
       "src": "images/icon-192.png",
       "type": "image/png",
       "sizes": "192x192",
-      "purpose":"maskable"
+      "purpose": "maskable"
     },
     {
       "src": "images/icon-512.png",
       "type": "image/png",
       "sizes": "512x512",
-      "purpose":"maskable"
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "images/screenshoot/ss1.png",
+      "sizes": "1920x1043",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "images/screenshoot/ss2.png",
+      "sizes": "1920x1043",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "images/screenshoot/ss3.png",
+      "sizes": "1920x1043",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "images/screenshoot/ss4.png",
+      "sizes": "1080x2340",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "images/screenshoot/ss5.png",
+      "sizes": "1080x2340",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "images/screenshoot/ss6.png",
+      "sizes": "1080x2340",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "New Story",
+      "short_name": "New Story",
+      "description": "Makes a new story.",
+      "url": "/#/new-story",
+      "icons": [
+        {
+          "src": "images/icon-512.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        }
+      ]
     }
   ]
 }
